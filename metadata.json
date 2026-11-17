@@ -1,0 +1,6 @@
+{
+  "name": "HI ERO ELECTRIC – TRISHNA MOTORS",
+  "description": "Official showroom website for HI ERO ELECTRIC – TRISHNA MOTORS in Tilhari, Jabalpur. Electric scooter sales, servicing, battery inspection, genuine spare parts, and test ride bookings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
